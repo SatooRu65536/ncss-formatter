@@ -1,0 +1,8 @@
+out
+node_modules/*
+.DS_Store
+dist/*
+.vscode-test/
+.vscode-test-web/
+.vsix
+yarn.lock
