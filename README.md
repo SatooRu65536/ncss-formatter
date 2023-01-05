@@ -1,5 +1,5 @@
 # ncss-formatter
-[NCSS](https://github.com/SatooRu65536/ncss) formatter.
+[NCSS](https://github.com/ncss-project/ncss) formatter.
 
 ## Reference
 - [aeschli/vscode-css-formatter](https://github.com/aeschli/vscode-css-formatter)
